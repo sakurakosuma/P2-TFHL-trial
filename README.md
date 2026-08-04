@@ -6,26 +6,25 @@ This repository contains the custom R scripts used to generate the figures prese
 
 The figures were generated using:
 
-- R 3.6.0
-- CentOS Linux 7
+- R 4.3.2
+- Red Hat Enterprise Linux 8.8
 
 ### Main R packages
 
-- tidyverse 1.3.0
-- ggplot2 3.4.3
-- dplyr 1.1.1
-- survival 3.2-7
-- survminer 0.5.0
-- ggsci 2.9
-- ComplexHeatmap 2.2.0
-- circlize 0.4.12
-- ggh4x 0.1.2.1
-- ggpubr 0.4.0
-- cowplot 1.1.1
-- lemon 0.4.5
-- RColorBrewer 1.1-2
-- scales 1.2.1
-- cowplot 1.1.1
+- tidyverse 2.0.0
+- ggplot2 4.0.3
+- dplyr 1.2.1
+- survival 3.5-7
+- survminer 0.5.2
+- ggsci 5.0.0
+- ComplexHeatmap 2.16.0
+- circlize 0.4.18
+- ggh4x 0.3.1
+- ggpubr 0.6.3
+- cowplot 1.2.0
+- lemon 0.5.2
+- RColorBrewer 1.1-3
+- scales 1.4.0
 
 Package versions are listed in:
 - `sessionInfo.txt`
